@@ -1,6 +1,7 @@
 # Distance Measurement using Ultrasonic Sensor and Arduino
+https://harshshinde.hashnode.dev/distance-measurement-using-ultrasonic-sensor-and-arduino
 
-#Arduino:
+# Arduino:
 
 Arduino is an open-source electronics platform that encompasses both hardware and software components. At its core, Arduino boards feature microcontrollers, such as the popular Atmel AVR family, with built-in input/output pins for interacting with external components. The Arduino Integrated Development Environment (IDE) provides a user-friendly interface to write, compile, and upload code to the board, simplifying programming with its C/C++ language support. The platform is renowned for its versatility, making it accessible for beginners and advanced users alike. Its vast library support enables easy integration of sensors, displays, and communication modules. With a strong community and ample documentation, Arduino has become a go-to choice for prototyping, hobby projects, and education in the world of electronics and embedded systems.
 
