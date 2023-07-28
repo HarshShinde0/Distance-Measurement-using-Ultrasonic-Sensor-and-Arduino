@@ -1,7 +1,7 @@
 #include <LiquidCrystal.h>
 
-// initialize the library by associating any needed LCD interface pin
-// with the arduino pin number it is connected to
+// initialize the library by associating any needed LCD interface Pins
+// with the arduino Pins number it is connected to Ardunio
 long duration;
 int distanceCM;
 int distanceInch;
